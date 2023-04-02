@@ -23,11 +23,12 @@
 
 ## Some projects
 
-1. https://www.nefu-medphys.com
-2. https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
-3. https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
+1. Разработка сайта: https://www.nefu-medphys.com
+2. Разработка программы: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
+3. Разработка программы: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
 
-![Codewar](https://www.codewars.com/users/semoleg1986/badges/medium)
+## CodeWar
+![Codewar]([https://www.codewars.com/users/semoleg1986/badges/medium](https://www.codewars.com/users/semoleg1986/badges/small))
 
 <!---
 semoleg1986/semoleg1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
