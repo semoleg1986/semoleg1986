@@ -12,6 +12,7 @@
 ![djangorestframe](https://img.shields.io/badge/-djangorestframework-brown?logo=djangorestframework&logoColor=white&style=for-the-badge)
 
 ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
+![sqlite](https://img.shields.io/badge/-sqlite-white?logo=sqlite&logoColor=lightblue&style=for-the-badge)
 
 ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
 ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=for-the-badge)
