@@ -30,8 +30,8 @@
 
 ## Some projects
 
-1. Website development: https://www.nefu-medphys.com ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
-![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=for-the-badge)
+1. Website development: https://www.nefu-medphys.com ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
+![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic)![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic)
 2. Program development: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
 3. Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
 
