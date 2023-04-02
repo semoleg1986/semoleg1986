@@ -44,7 +44,9 @@
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=plastic)
  ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=plastic) ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=plastic) ![numpy](https://img.shields.io/badge/-scikitimage-lightgray?logo=scikitimage&logoColor=blue&style=plastic) ![skipy](https://img.shields.io/badge/-skipy-blue?logo=skipy&logoColor=blue&style=plastic)
 
-4. Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
+3. Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
+![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) 
+![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=plastic)
 
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
