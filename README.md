@@ -19,7 +19,7 @@
 ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=for-the-badge)
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=for-the-badge)
 
-![figma](https://img.shields.io/badge/-figma-gray?logo=figma&logoColor=purple&style=for-the-badge)
+![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
 ![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=for-the-badge)
