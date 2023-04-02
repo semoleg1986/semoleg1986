@@ -6,6 +6,8 @@
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
+![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
+
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 
