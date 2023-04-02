@@ -32,6 +32,7 @@
 ## Some projects
 
 1. Website development: https://www.nefu-medphys.com 
+
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic)![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic)![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
