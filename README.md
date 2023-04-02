@@ -21,6 +21,8 @@
 ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=for-the-badge)
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=for-the-badge)
 
+## Some projects
+1. https://www.nefu-medphyscics.com
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/medium)
 
 <!---
