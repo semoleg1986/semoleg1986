@@ -28,7 +28,7 @@
 3. Разработка программы: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
 
 ## CodeWar
-![Codewar](https://www.codewars.com/users/semoleg1986/badges/medium](https://www.codewars.com/users/semoleg1986/badges/small)
+![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
 
 <!---
 semoleg1986/semoleg1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
