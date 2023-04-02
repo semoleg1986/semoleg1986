@@ -8,6 +8,7 @@
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
+
 ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
 
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
