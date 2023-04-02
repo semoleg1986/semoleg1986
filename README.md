@@ -30,6 +30,9 @@
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
 
+## Contacs
+
+[![Gmail](https://img.shields.io/badge/Gmail-semoleg1986@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:semoleg1986@gmail.com)
 <!---
 semoleg1986/semoleg1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
