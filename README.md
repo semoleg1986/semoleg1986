@@ -39,7 +39,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-semoleg1986@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:semoleg1986@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-semoleg1986-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discordapp.com/users/1087671905269583924)
 
- https://www.oakit.org
 <!---
 semoleg1986/semoleg1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
