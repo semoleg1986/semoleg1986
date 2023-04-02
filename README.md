@@ -22,7 +22,7 @@
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=for-the-badge)
 
 ## Some projects
-1. https://www.nefu-medphysics.com
+1. https://www.nefu-medphys.com
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/medium)
 
 <!---
