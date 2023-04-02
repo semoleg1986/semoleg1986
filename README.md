@@ -34,9 +34,12 @@
 1. Website development: https://www.nefu-medphys.com 
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
-![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic)![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic)![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
-![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
+![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic) ![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic) ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
+ ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
+ ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
+ ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=for-the-badge)
+ ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
+ 
 2. Program development: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
 3. Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
 
