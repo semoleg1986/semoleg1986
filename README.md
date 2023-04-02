@@ -3,6 +3,7 @@
 ## Skills
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
@@ -11,7 +12,7 @@
 
 ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
 
-![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
+
 
 ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
 ![numpy](https://img.shields.io/badge/-numpy-gray?logo=numpy&logoColor=blue&style=for-the-badge)
