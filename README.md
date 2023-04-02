@@ -14,7 +14,7 @@
 ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
 ![sqlite](https://img.shields.io/badge/-sqlite-white?logo=sqlite&logoColor=lightblue&style=for-the-badge)
 
-![heroku](https://img.shields.io/badge/-heroku-black?logo=heroku&logoColor=purple&style=for-the-badge)
+![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=for-the-badge)
 
 ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
 ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=for-the-badge)
