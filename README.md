@@ -40,7 +40,11 @@
  ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
  
 2. Program development: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
-3. Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
+
+![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
+ ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=for-the-badge) ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=for-the-badge)
+
+4. Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
 
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
