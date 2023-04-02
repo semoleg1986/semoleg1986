@@ -1,6 +1,7 @@
 ## Oleg Semenov
 
-
+## Skills
+![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/large)
 
 <!---
