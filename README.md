@@ -8,6 +8,7 @@
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![numpy](https://img.shields.io/badge/-numpy-gray?logo=numpy&logoColor=blue&style=for-the-badge)
 ![pandas](https://img.shields.io/badge/-pandas-white?logo=pandas&logoColor=black&style=for-the-badge)
+![seaborn](https://img.shields.io/badge/-seaborn-white?logo=seaborn&logoColor=blue&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/medium)
 
