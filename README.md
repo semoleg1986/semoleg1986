@@ -17,10 +17,12 @@
 ![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=for-the-badge)
 ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=for-the-badge)
 
-![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
+![matplotlib](https://img.shields.io/badge/-matplotlib-lightgray?logo=matplotlib&logoColor=blue&style=for-the-badge)
 ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=for-the-badge)
 ![pandas](https://img.shields.io/badge/-pandas-white?logo=pandas&logoColor=black&style=for-the-badge)
 ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=for-the-badge)
+
+![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=for-the-badge)
 
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
