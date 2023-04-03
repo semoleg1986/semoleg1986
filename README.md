@@ -40,6 +40,7 @@ Website development: https://www.nefu-medphys.com
  ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
  ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=plastic)
  ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
+
 Program development: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=plastic)
