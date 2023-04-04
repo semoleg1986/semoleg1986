@@ -41,7 +41,7 @@ Website development: https://www.nefu-medphys.com
  ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=plastic)
  ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
 
-Program development: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
+Program development: (https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=plastic)
  ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=plastic) ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=plastic) ![numpy](https://img.shields.io/badge/-scikitimage-lightgray?logo=scikitimage&logoColor=blue&style=plastic) ![skipy](https://img.shields.io/badge/-skipy-blue?logo=skipy&logoColor=blue&style=plastic)
