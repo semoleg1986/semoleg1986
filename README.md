@@ -54,6 +54,17 @@ Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMEN
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=plastic) 
 ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=plastic)
 
+## Some projects completed during the courses
+
+Website development: https://app.netlify.com/sites/rococo-tartufo-b0205d/overview
+
+![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
+![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
+
+
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
 
