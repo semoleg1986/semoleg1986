@@ -36,7 +36,7 @@
 
 ## Some projects
 
-Website development: [link](https://www.nefu-medphys.com)
+Website development: [https://www.nefu-medphys.com](https://www.nefu-medphys.com)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic) ![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic)
@@ -44,12 +44,12 @@ Website development: [link](https://www.nefu-medphys.com)
  ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=plastic)
  ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
 
-Program development: https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html
+Program development: [https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html](https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=plastic)
  ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=plastic) ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=plastic) ![numpy](https://img.shields.io/badge/-scikitimage-lightgray?logo=scikitimage&logoColor=blue&style=plastic) ![skipy](https://img.shields.io/badge/-skipy-blue?logo=skipy&logoColor=blue&style=plastic)
 
-Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745
+Program development: [https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745](https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMENT_ID=142745)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic) 
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=plastic) 
@@ -57,7 +57,7 @@ Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMEN
 
 ## Some projects completed during the courses
 
-Website development: https://rococo-tartufo-b0205d.netlify.app
+Website development: [https://rococo-tartufo-b0205d.netlify.app](https://rococo-tartufo-b0205d.netlify.app)
 
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
