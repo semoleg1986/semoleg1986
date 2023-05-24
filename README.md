@@ -56,7 +56,7 @@ Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMEN
 
 ## Some projects completed during the courses
 
-Website development: https://app.netlify.com/sites/rococo-tartufo-b0205d/overview
+Website development: https://rococo-tartufo-b0205d.netlify.app
 
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
