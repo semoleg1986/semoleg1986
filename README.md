@@ -58,11 +58,11 @@ Program development: https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEMEN
 
 Website development: https://rococo-tartufo-b0205d.netlify.app
 
-![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
+![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
+![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=plastic)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)
+![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=plastic)
 
 
 ## CodeWar
