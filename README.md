@@ -34,7 +34,7 @@
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
-![Reactnative](https://img.shields.io/badge/-Reactnative-61DAFB?logo=reactnative&logoColor=white&style=for-the-badge)
+![Reactnative](https://img.shields.io/badge/-Reactnative-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 
 ## Some projects
