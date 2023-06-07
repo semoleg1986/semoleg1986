@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=for-the-badge)
+![TS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/-Axios-white?logo=axios&logoColor=red&style=for-the-badge)
@@ -34,7 +34,7 @@
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
-
+![Reactnative](https://img.shields.io/badge/-Reactnative-61DAFB?logo=reactnative&logoColor=white&style=for-the-badge)
 
 
 ## Some projects
