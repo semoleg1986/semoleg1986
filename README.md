@@ -9,10 +9,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/-Axios-white?logo=axios&logoColor=red&style=for-the-badge)
+![Graphql](https://img.shields.io/badge/-graphql-lightgray?logo=graphql&logoColor=purple&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
 ![djangorestframe](https://img.shields.io/badge/-djangorestframework-brown?logo=djangorestframework&logoColor=white&style=for-the-badge)
+![graphene-python](https://img.shields.io/badge/-graphene-python-black?logo=graphenepython&logoColor=white&style=for-the-badge)
 
 ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
 ![sqlite](https://img.shields.io/badge/-sqlite-white?logo=sqlite&logoColor=lightblue&style=for-the-badge)
@@ -31,7 +33,7 @@
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
-![Graphql](https://img.shields.io/badge/-graphql-lightgray?logo=graphql&logoColor=purple&style=for-the-badge)
+
 
 
 ## Some projects
