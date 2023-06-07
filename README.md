@@ -10,6 +10,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/-Axios-white?logo=axios&logoColor=red&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/-graphql-lightgray?logo=graphql&logoColor=purple&style=for-the-badge)
+![Apollographql](https://img.shields.io/badge/-apollographql-lightgray?logo=apollographql&logoColor=purple&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
