@@ -15,6 +15,7 @@
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=for-the-badge)
 ![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-cypress-white?logo=cypress&logoColor=purple&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
