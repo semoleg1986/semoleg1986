@@ -1,6 +1,9 @@
 ## Oleg Semenov
 
 ## Skills
+
+Front-End:
+
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
@@ -11,6 +14,8 @@ Front-End Frameworks/Libraries:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
+
+API/GraphQL:
 
 ![Axios](https://img.shields.io/badge/-Axios-white?logo=axios&logoColor=red&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge)
@@ -30,24 +35,36 @@ Testing:
 ![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-cypress-white?logo=cypress&logoColor=purple&style=for-the-badge)
 
+Back-End:
+
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
 ![djangorestframe](https://img.shields.io/badge/-djangorestframework-brown?logo=djangorestframework&logoColor=white&style=for-the-badge)
 ![graphene-python](https://img.shields.io/badge/-graphene-black?logo=graphene&logoColor=white&style=for-the-badge)
 
+Databases:
+
 ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
 ![sqlite](https://img.shields.io/badge/-sqlite-white?logo=sqlite&logoColor=lightblue&style=for-the-badge)
 
+Deployment/Infrastructure:
+
 ![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=for-the-badge)
 ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=for-the-badge)
+
+Data Analysis/Scientific Computing:
 
 ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=for-the-badge)
 ![pandas](https://img.shields.io/badge/-pandas-white?logo=pandas&logoColor=black&style=for-the-badge)
 ![seaborn](https://img.shields.io/badge/-seaborn-blue?logo=seaborn&logoColor=blue&style=for-the-badge)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-blue?logo=matplotlib&logoColor=blue&style=for-the-badge)
 
+Computer Vision/Natural Language Processing:
+
 ![opencv](https://img.shields.io/badge/-opencv-red?logo=opencv&logoColor=green&style=for-the-badge)
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=for-the-badge)
+
+Design:
 
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
