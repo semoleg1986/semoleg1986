@@ -13,6 +13,7 @@
 ![Apollographql](https://img.shields.io/badge/-apollographql-white?logo=apollographql&logoColor=purple&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=for-the-badge)
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=for-the-badge)
+![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
