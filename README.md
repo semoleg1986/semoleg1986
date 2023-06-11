@@ -11,9 +11,18 @@
 ![Axios](https://img.shields.io/badge/-Axios-white?logo=axios&logoColor=red&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge)
 ![Apollographql](https://img.shields.io/badge/-apollographql-white?logo=apollographql&logoColor=purple&style=for-the-badge)
+
+Build Tools:
+
 ![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=for-the-badge)
+
+Code Quality:
+
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=for-the-badge)
+
+Testing:
+
 ![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-cypress-white?logo=cypress&logoColor=purple&style=for-the-badge)
 
