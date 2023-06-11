@@ -63,6 +63,7 @@ Program development: [https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEME
 ## Some projects completed during the courses
 
 Website development: [https://rococo-tartufo-b0205d.netlify.app](https://rococo-tartufo-b0205d.netlify.app)
+
 ![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=plastic)
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=plastic)
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
