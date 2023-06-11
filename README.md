@@ -11,7 +11,7 @@
 ![Axios](https://img.shields.io/badge/-Axios-white?logo=axios&logoColor=red&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge)
 ![Apollographql](https://img.shields.io/badge/-apollographql-white?logo=apollographql&logoColor=purple&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-vite-black?logo=vite&logoColor=purple&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
