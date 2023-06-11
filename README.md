@@ -14,6 +14,7 @@
 ![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=for-the-badge)
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
@@ -67,6 +68,7 @@ Website development: [https://rococo-tartufo-b0205d.netlify.app](https://rococo-
 
 ![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=plastic)
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=plastic)
+![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=plastic)
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
 ![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=plastic)
