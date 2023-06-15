@@ -102,10 +102,23 @@ Website development: [https://rococo-tartufo-b0205d.netlify.app](https://rococo-
 ![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=plastic)
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
-![JS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=plastic)
+![TS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=plastic)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=plastic)
+![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=plastic)
 
+Website development: [https://develop--golden-clafoutis-688ad6.netlify.app](https://develop--golden-clafoutis-688ad6.netlify.app)
+
+![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=plastic)
+![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=plastic)
+![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=plastic)
+![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=plastic)
+![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=plastic)
+![TS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=plastic)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)
+![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=plastic)
+![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=plastic)
+![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=plastic)
 
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
