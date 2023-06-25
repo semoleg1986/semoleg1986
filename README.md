@@ -69,7 +69,7 @@ Design:
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
-![Nodejs](https://img.shields.io/badge/-Node-61DAFB?logo=node-js&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/-Node-61DAFB?logo=node&logoColor=white&style=for-the-badge)
 
 
 ## Some projects
