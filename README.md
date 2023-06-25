@@ -123,7 +123,7 @@ Website development: [https://develop--golden-clafoutis-688ad6.netlify.app](http
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
 
-## 
+## My Stats
 
 ![EvoletSpess GitHub stats](https://github-readme-stats.vercel.app/api?username=semoleg1986&show_icons=true&theme=dark)
   
