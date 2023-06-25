@@ -123,6 +123,13 @@ Website development: [https://develop--golden-clafoutis-688ad6.netlify.app](http
 ## CodeWar
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
 
+## 
+
+![EvoletSpess GitHub stats](https://github-readme-stats.vercel.app/api?username=semoleg1986&show_icons=true&theme=dark)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semoleg1986&layout=compact&theme=dark)
+
+
 ## Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-semoleg1986@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:semoleg1986@gmail.com)
