@@ -125,9 +125,9 @@ Website development: [https://develop--golden-clafoutis-688ad6.netlify.app](http
 
 ## My Stats
 
-![EvoletSpess GitHub stats](https://github-readme-stats.vercel.app/api?username=semoleg1986&show_icons=true&theme=dark)
+![EvoletSpess GitHub stats](https://github-readme-stats.vercel.app/api?username=semoleg1986&show_icons=true&theme=white)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semoleg1986&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semoleg1986&layout=compact&theme=white)
 
 
 ## Contacts
