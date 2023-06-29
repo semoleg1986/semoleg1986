@@ -136,7 +136,7 @@ File-manager: [https://github.com/semoleg1986/file-manager/tree/dev](https://git
 
 ## Contacts
 
-File-manager: [https://github.com/semoleg1986/file-manager/tree/dev](https://semoleg1986.github.io/rsschool-cv/cv)
+CV: [Oleg Semenov](https://semoleg1986.github.io/rsschool-cv/cv)
 
 [![Gmail](https://img.shields.io/badge/Gmail-semoleg1986@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:semoleg1986@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-semoleg1986-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discordapp.com/users/1087671905269583924)
