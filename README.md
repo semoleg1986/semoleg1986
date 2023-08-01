@@ -125,6 +125,7 @@ File-manager: [https://github.com/semoleg1986/file-manager/tree/dev](https://git
 ![Node](https://img.shields.io/badge/-nodejs-black?logo=nodejs&logoColor=green&style=plastic)
 
 ## CodeWar
+
 ![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
 
 ## My Stats
