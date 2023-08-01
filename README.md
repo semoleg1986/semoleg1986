@@ -126,7 +126,7 @@ File-manager: [https://github.com/semoleg1986/file-manager/tree/dev](https://git
 
 ## CodeWar
 
-![Codewar](https://www.codewars.com/users/semoleg1986/badges/small)
+![Codewar](https://www.codewars.com/users/rsschool_9651b221fd361197/badges/small)
 
 ## My Stats
 
