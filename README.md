@@ -37,7 +37,7 @@ Testing:
 
 Back-End:
 
-![Node](https://img.shields.io/badge/-Node-61DAFB?logo=node&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/-Nodejs-black?logo=nodejs&logoColor=green&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge)
 ![Nest](https://img.shields.io/badge/-Nestjs-black?logo=nestjs&logoColor=white&style=for-the-badge)
 
