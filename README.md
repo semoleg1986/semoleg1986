@@ -106,11 +106,11 @@ Program development: [https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEME
 Graphql-server: [https://dj-auth-server.herokuapp.com/graphql/](https://dj-auth-server.herokuapp.com/graphql/)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
-![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
-![graphene-python](https://img.shields.io/badge/-graphene-black?logo=graphene&logoColor=white&style=for-the-badge)
-![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
-![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=for-the-badge)
-![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=for-the-badge)
+![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic)
+![graphene-python](https://img.shields.io/badge/-graphene-black?logo=graphene&logoColor=white&style=plastic)
+![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
+![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic)
+![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=plastic)
 
 ## Some projects completed during the courses
 
