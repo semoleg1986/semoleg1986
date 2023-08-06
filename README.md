@@ -74,6 +74,7 @@ Design:
 
 ## In progress
 ![TypeORM](https://img.shields.io/badge/-typeorm-61DAFB?logo=typeorm&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge)
 
 
 ## Some projects
