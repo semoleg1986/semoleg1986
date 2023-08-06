@@ -103,6 +103,15 @@ Program development: [https://www.s-vfu.ru/news/detail.php?SECTION_ID=2268&ELEME
 ![nltk](https://img.shields.io/badge/-nltk-black?logo=nltk&logoColor=white&style=plastic) 
 ![numpy](https://img.shields.io/badge/-numpy-lightgray?logo=numpy&logoColor=blue&style=plastic)
 
+Graphql-server: [https://dj-auth-server.herokuapp.com/graphql/](https://dj-auth-server.herokuapp.com/graphql/)
+
+![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
+![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
+![graphene-python](https://img.shields.io/badge/-graphene-black?logo=graphene&logoColor=white&style=for-the-badge)
+![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=for-the-badge)
+![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=for-the-badge)
+![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=for-the-badge)
+
 ## Some projects completed during the courses
 
 Website development: [https://rococo-tartufo-b0205d.netlify.app](https://rococo-tartufo-b0205d.netlify.app)
