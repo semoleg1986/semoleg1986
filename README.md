@@ -160,7 +160,7 @@ GraphQL: [https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1](ht
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=plastic)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=plastic)
 
-## Certificate
+## Certificates
 
 HTML/CSS - [https://gb.ru/certificates/2485953.en](https://gb.ru/certificates/2485953.en)
 
