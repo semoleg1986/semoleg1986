@@ -36,6 +36,9 @@ Testing:
 ![Cypress](https://img.shields.io/badge/-cypress-white?logo=cypress&logoColor=purple&style=for-the-badge)
 
 Back-End:
+![Node](https://img.shields.io/badge/-Node-61DAFB?logo=node&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge)
+![Nest](https://img.shields.io/badge/-Nest-61DAFB?logo=nest&logoColor=white&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
@@ -69,7 +72,7 @@ Design:
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
-![Node](https://img.shields.io/badge/-Node-61DAFB?logo=node&logoColor=white&style=for-the-badge)
+![TypeORM](https://img.shields.io/badge/-typeorm-61DAFB?logo=typeorm&logoColor=white&style=for-the-badge)
 
 
 ## Some projects
