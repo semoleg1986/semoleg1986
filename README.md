@@ -130,7 +130,7 @@ Website development: [https://develop--golden-clafoutis-688ad6.netlify.app](http
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=plastic)
 ![Vitest](https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=plastic)
 
-File-manager: [https://github.com/semoleg1986/file-manager/tree/dev](https://github.com/semoleg1986/file-manager/tree/dev)
+File-manager: [https://github.com/semoleg1986/file-manager/pull/1](https://github.com/semoleg1986/file-manager/pull/1)
 
 ![Node](https://img.shields.io/badge/-nodejs-black?logo=nodejs&logoColor=green&style=plastic)
 
