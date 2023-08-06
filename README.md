@@ -151,10 +151,13 @@ Battleship Game: [https://github.com/semoleg1986/node-battleship/pull/1](https:/
 
 GraphQL: [https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1](https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1)
 
-![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic) 
-![nodemon](https://img.shields.io/badge/-nodemon-black?logo=nodemon&logoColor=green&style=plastic)
+![TS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=plastic)
+![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic)
+![TS-Node](https://img.shields.io/badge/-ts-node-black?logo=ts-node&logoColor=green&style=plastic)
+![Fastify](https://img.shields.io/badge/-fastify-black?logo=fastify&logoColor=green&style=plastic)
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=plastic)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=plastic)
+
 
 ## CodeWar
 
