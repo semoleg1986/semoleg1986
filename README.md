@@ -162,6 +162,10 @@ GraphQL: [https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1](ht
 
 ## Certificate
 
+HTML/CSS - [https://gb.ru/certificates/2485953.en](https://gb.ru/certificates/2485953.en)
+
+AWS - [https://app.rs.school/certificate/guapmure](https://app.rs.school/certificate/guapmure)
+
 React - [https://app.rs.school/certificate/a0n1gslo](https://app.rs.school/certificate/a0n1gslo)
 
 ## CodeWar
