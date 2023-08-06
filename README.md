@@ -136,7 +136,8 @@ File-manager: [https://github.com/semoleg1986/file-manager/pull/1](https://githu
 
 Battleship Game : [https://github.com/semoleg1986/node-battleship/pull/1](https://github.com/semoleg1986/node-battleship/pull/1)
 
-![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic)
+![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic) 
+![nodemon](https://img.shields.io/badge/-nodemon-black?logo=nodemon&logoColor=green&style=plastic)
 
 ## CodeWar
 
