@@ -12,7 +12,7 @@ Front-End:
 
 Front-End Frameworks/Libraries:
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) https://app.rs.school/certificate/a0n1gslo
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
 
 API/GraphQL:
@@ -88,9 +88,9 @@ Website development: [https://www.nefu-medphys.com](https://www.nefu-medphys.com
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=plastic)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=plastic) ![heroku](https://img.shields.io/badge/-heroku-white?logo=heroku&logoColor=purple&style=plastic)
- ![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
- ![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=plastic)
- ![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
+![nginx](https://img.shields.io/badge/-nginx-black?logo=nginx&logoColor=red&style=plastic)
+![postgres](https://img.shields.io/badge/-postgres-black?logo=postgresql&logoColor=61DAFB&style=plastic)
 
 Program development: [https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html](https://rg.ru/2022/07/04/reg-dfo/fiziki-svfu-nahodiat-novye-sposoby-borby-s-onkozabolevaniiami.html)
 
