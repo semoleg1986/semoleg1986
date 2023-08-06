@@ -39,7 +39,7 @@ Back-End:
 
 ![Node](https://img.shields.io/badge/-Node-61DAFB?logo=node&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge)
-![Nest](https://img.shields.io/badge/-Nest-61DAFB?logo=nest&logoColor=white&style=for-the-badge)
+![Nest](https://img.shields.io/badge/-Nestjs-black?logo=nestjs&logoColor=white&style=for-the-badge)
 
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
