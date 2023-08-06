@@ -134,6 +134,10 @@ File-manager: [https://github.com/semoleg1986/file-manager/tree/dev](https://git
 
 ![Node](https://img.shields.io/badge/-nodejs-black?logo=nodejs&logoColor=green&style=plastic)
 
+Battleship Game : [https://github.com/semoleg1986/node-battleship/pull/1](https://github.com/semoleg1986/node-battleship/pull/1)
+
+![Node](https://img.shields.io/badge/-nodejs-black?logo=nodejs&logoColor=green&style=plastic)
+
 ## CodeWar
 
 ![Codewar](https://www.codewars.com/users/rsschool_9651b221fd361197/badges/small)
