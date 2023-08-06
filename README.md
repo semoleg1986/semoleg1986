@@ -38,12 +38,14 @@ Testing:
 Back-End:
 
 (TS/JS)
+
 ![Node](https://img.shields.io/badge/-Node-black?logo=node&logoColor=green&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge)
 ![Nest](https://img.shields.io/badge/-Nestjs-black?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge)
 
 (python)
+
 ![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 ![django](https://img.shields.io/badge/-django-black?logo=django&logoColor=white&style=for-the-badge)
 ![djangorestframe](https://img.shields.io/badge/-djangorestframework-brown?logo=djangorestframework&logoColor=white&style=for-the-badge)
