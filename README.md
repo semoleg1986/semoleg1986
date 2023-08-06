@@ -12,7 +12,7 @@ Front-End:
 
 Front-End Frameworks/Libraries:
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) https://app.rs.school/certificate/a0n1gslo
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
 
 API/GraphQL:
@@ -160,6 +160,9 @@ GraphQL: [https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1](ht
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=plastic)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=plastic)
 
+## Certificate
+
+React - [https://app.rs.school/certificate/a0n1gslo](https://app.rs.school/certificate/a0n1gslo)
 
 ## CodeWar
 
