@@ -134,11 +134,18 @@ File-manager: [https://github.com/semoleg1986/file-manager/pull/1](https://githu
 
 ![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic)
 
-Battleship Game : [https://github.com/semoleg1986/node-battleship/pull/1](https://github.com/semoleg1986/node-battleship/pull/1)
+Battleship Game: [https://github.com/semoleg1986/node-battleship/pull/1](https://github.com/semoleg1986/node-battleship/pull/1)
 
 ![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic) 
 ![nodemon](https://img.shields.io/badge/-nodemon-black?logo=nodemon&logoColor=green&style=plastic)
 ![websocket](https://img.shields.io/badge/-websocket-black?logo=websocket&logoColor=green&style=plastic)
+
+GraphQL: [https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1](https://github.com/semoleg1986/rsschool-nodejs-task-graphql/pull/1)
+
+![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=green&style=plastic) 
+![nodemon](https://img.shields.io/badge/-nodemon-black?logo=nodemon&logoColor=green&style=plastic)
+![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge)
+![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge)
 
 ## CodeWar
 
