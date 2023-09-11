@@ -43,6 +43,7 @@ Back-End:
 ![TS-Node](https://img.shields.io/badge/-tsnode-black?logo=tsnode&logoColor=green&style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/-fastify-black?logo=fastify&logoColor=green&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge)
+![TypeORM](https://img.shields.io/badge/-typeorm-61DAFB?logo=typeorm&logoColor=white&style=for-the-badge)
 ![Nest](https://img.shields.io/badge/-Nestjs-black?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Graphql](https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge)
 
@@ -81,8 +82,8 @@ Design:
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
 ## In progress
-![TypeORM](https://img.shields.io/badge/-typeorm-61DAFB?logo=typeorm&logoColor=white&style=for-the-badge)
 
+![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 
 
 ## Some projects
