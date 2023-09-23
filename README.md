@@ -81,11 +81,6 @@ Design:
 
 ![figma](https://img.shields.io/badge/-figma-black?logo=figma&logoColor=purple&style=for-the-badge)
 
-## In progress
-
-![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-
-
 ## Some projects
 
 Website development: [https://www.nefu-medphys.com](https://www.nefu-medphys.com)
