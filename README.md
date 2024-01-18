@@ -167,6 +167,10 @@ AWS - [https://app.rs.school/certificate/guapmure](https://app.rs.school/certifi
 
 React - [https://app.rs.school/certificate/a0n1gslo](https://app.rs.school/certificate/a0n1gslo)
 
+Node - [https://app.rs.school/certificate/cxwnq4hz](https://app.rs.school/certificate/cxwnq4hz)
+
+Python - [https://www.coursera.org/account/accomplishments/specialization/certificate/R6E5ZGLTXPBT](https://www.coursera.org/account/accomplishments/specialization/certificate/R6E5ZGLTXPBT)
+
 ## CodeWar
 
 ![Codewar](https://www.codewars.com/users/rsschool_9651b221fd361197/badges/small)
