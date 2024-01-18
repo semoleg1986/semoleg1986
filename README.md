@@ -13,7 +13,7 @@ Front-End:
 Front-End Frameworks/Libraries:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-red?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-lightgray?logo=redux&logoColor=purple&style=for-the-badge)
 
 API/GraphQL:
