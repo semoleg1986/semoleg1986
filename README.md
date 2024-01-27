@@ -170,6 +170,8 @@ React - [https://app.rs.school/certificate/a0n1gslo](https://app.rs.school/certi
 
 Node - [https://app.rs.school/certificate/cxwnq4hz](https://app.rs.school/certificate/cxwnq4hz)
 
+Angular - [https://app.rs.school/certificate/2oxj2ijf](https://app.rs.school/certificate/2oxj2ijf)
+
 Python (Professional Certificate)- [https://www.coursera.org/account/accomplishments/specialization/certificate/R6E5ZGLTXPBT](https://www.coursera.org/account/accomplishments/specialization/certificate/R6E5ZGLTXPBT)
 
 ## CodeWar
